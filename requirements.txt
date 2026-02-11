@@ -1,5 +1,5 @@
 python-telegram-bot==20.5
-aiohttp 
+aiohttp
 numpy
 pandas
 ta
